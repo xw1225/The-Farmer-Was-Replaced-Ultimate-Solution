@@ -1,4 +1,6 @@
-# The Farmer Was Replaced 自动化代码
+# 编程农场终极自动代码
+
+[English](#the-farmer-was-replaced-ultimate-solution-english)
 
 适用于右侧代码技能树已点完的玩家。一个无import的farm_auto.py集成生产、成就和全部16种排行榜；每行最多80字符，设置在文件最前。
 
@@ -99,7 +101,7 @@ LEADERBOARD_SPEEDUP = 1000000
 
 ---
 
-# The Farmer Was Replaced Automation (English)
+# The Farmer Was Replaced Ultimate Solution (English)
 
 For players who have fully unlocked the code skill tree on the right. A single `farm_auto.py` file handles production, achievements, and all 16 leaderboards without imports. Each line is at most 80 characters long, and all user settings are at the top of the file.
 
