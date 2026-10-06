@@ -1,4 +1,4 @@
-# 编程农场终极自动代码
+# 编程农场终极自动代码/The Farmer Was Replaced Ultimate Solution
 
 [English](#the-farmer-was-replaced-ultimate-solution-english)
 
